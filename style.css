@@ -85,7 +85,7 @@
   font-size: 1.2rem;
   font-weight: 400;
   color: #eee;
-  animation: fadeup 2s ease 0.5 forwards;
+  animation: fadeup 2s ease infinite alternate;
 }
 @keyframes fadeup {
   0% {
