@@ -24,23 +24,23 @@
 
 /* add your own img*/
 .slider figure:nth-child(1) {
-  background-image: url('img/1.jpg');
+  background-image: url('./img/1.jpg');
   animation-delay: 0s;
 }
 .slider figure:nth-child(2) {
-  background-image: url('img/2.jpg');
+  background-image: url('./img/2.jpg');
   animation-delay: -4s;
 }
 .slider figure:nth-child(3) {
-  background-image: url('img/3.jpg');
+  background-image: url('./img/3.jpg');
   animation-delay: -8s;
 }
 .slider figure:nth-child(4) {
-  background-image: url('img/4.jpg');
+  background-image: url('./img/4.jpg');
   animation-delay: -12s;
 }
 .slider figure:nth-child(5) {
-  background-image: url('img/5.jpg');
+  background-image: url('./img/5.jpg');
   animation-delay: -16s;
 }
 
